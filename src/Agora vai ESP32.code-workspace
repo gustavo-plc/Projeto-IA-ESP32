@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Agora vai ESP32 copy",
+			"path": "../../Agora vai ESP32 copy"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp"
+		}
+	}
+}
